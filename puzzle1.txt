@@ -1,0 +1,17 @@
+4 7
+robot A 2 3
+robot B 1 1
+robot C 4 7
+robot D 2 2
+robot E 1 6
+vertical_wall 2 3.5
+horizontal_wall 1.5 4
+horizontal_wall 2.5 3
+horizontal_wall 3.5 7
+vertical_wall 3 1.5
+vertical_wall 1 5.5
+vertical_wall 4 3.5
+vertical_wall 4 6.5
+vertical_wall 1 6.5
+horizontal_wall 1.5 6
+goal any 3 6
